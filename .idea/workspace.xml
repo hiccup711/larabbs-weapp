@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5c61c9f-7479-4293-bfcd-7653bf553569" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/index_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.wpy" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.wpy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.wpy" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.wpy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wepy.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/wepy.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../larabbs1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -70,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606912043149</updated>
       <workItem from="1606912044360" duration="1737000" />
-      <workItem from="1606913801898" duration="352000" />
+      <workItem from="1606913801898" duration="985000" />
+      <workItem from="1607052219972" duration="5990000" />
     </task>
     <servers />
   </component>
@@ -94,6 +91,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="507" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1606912224531" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1607071574272">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1607071574272" />
     <state width="1491" height="191" key="GridCell.Tab.0.bottom" timestamp="1606913855272">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -114,9 +115,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="269" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1606913782661" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1606914136319">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1607080244688">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606914136319" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1607080244688" />
   </component>
 </project>
